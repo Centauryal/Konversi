@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/Datalfa/Skripsi/CMUSphinx/Konversi/res/values-fr/strings.xml -->
+    <eat-comment/>
+    <string name="Nilai">Input Value:</string>
+    <string name="Oleh">Konversi Application Créée Par :</string>
+    <string name="Splash">Konversi</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="app_name">Konversi</string>
+    <string name="hello_world">Bonjour le monde!</string>
+    <string name="konversi">Conversion</string>
+    <string name="mute">Muet</string>
+    <string name="note">Cette application Konversi conçu pour permettre aux utilisateurs de créer une grande variété de conversion a été fournie dans cette demande</string>
+</resources>

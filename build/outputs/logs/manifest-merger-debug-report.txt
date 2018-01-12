@@ -1,0 +1,93 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Datalfa\Skripsi\CMUSphinx\Konversi\AndroidManifest.xml:2:1-62:12
+INJECTED from D:\Datalfa\Skripsi\CMUSphinx\Konversi\AndroidManifest.xml:2:1-62:12
+INJECTED from D:\Datalfa\Skripsi\CMUSphinx\Konversi\AndroidManifest.xml:2:1-62:12
+INJECTED from D:\Datalfa\Skripsi\CMUSphinx\Konversi\AndroidManifest.xml:2:1-62:12
+INJECTED from D:\Datalfa\Skripsi\CMUSphinx\Konversi\AndroidManifest.xml:2:1-62:12
+	package
+		ADDED from D:\Datalfa\Skripsi\CMUSphinx\Konversi\AndroidManifest.xml:3:5-36
+	android:versionName
+		ADDED from D:\Datalfa\Skripsi\CMUSphinx\Konversi\AndroidManifest.xml:5:5-30
+		INJECTED from D:\Datalfa\Skripsi\CMUSphinx\Konversi\AndroidManifest.xml
+		INJECTED from D:\Datalfa\Skripsi\CMUSphinx\Konversi\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Datalfa\Skripsi\CMUSphinx\Konversi\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\Datalfa\Skripsi\CMUSphinx\Konversi\AndroidManifest.xml:4:5-28
+		INJECTED from D:\Datalfa\Skripsi\CMUSphinx\Konversi\AndroidManifest.xml
+		INJECTED from D:\Datalfa\Skripsi\CMUSphinx\Konversi\AndroidManifest.xml
+uses-sdk
+ADDED from D:\Datalfa\Skripsi\CMUSphinx\Konversi\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from D:\Datalfa\Skripsi\CMUSphinx\Konversi\AndroidManifest.xml:9:9-38
+	android:minSdkVersion
+		ADDED from D:\Datalfa\Skripsi\CMUSphinx\Konversi\AndroidManifest.xml:8:9-34
+application
+ADDED from D:\Datalfa\Skripsi\CMUSphinx\Konversi\AndroidManifest.xml:11:5-60:19
+	android:label
+		ADDED from D:\Datalfa\Skripsi\CMUSphinx\Konversi\AndroidManifest.xml:14:9-41
+	android:icon
+		ADDED from D:\Datalfa\Skripsi\CMUSphinx\Konversi\AndroidManifest.xml:13:9-45
+	android:allowBackup
+		ADDED from D:\Datalfa\Skripsi\CMUSphinx\Konversi\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from D:\Datalfa\Skripsi\CMUSphinx\Konversi\AndroidManifest.xml:15:9-40
+activity#com.examples.konversi.SplashScreen
+ADDED from D:\Datalfa\Skripsi\CMUSphinx\Konversi\AndroidManifest.xml:16:9-24:20
+	android:label
+		ADDED from D:\Datalfa\Skripsi\CMUSphinx\Konversi\AndroidManifest.xml:18:13-45
+	android:name
+		ADDED from D:\Datalfa\Skripsi\CMUSphinx\Konversi\AndroidManifest.xml:17:13-62
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Datalfa\Skripsi\CMUSphinx\Konversi\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from D:\Datalfa\Skripsi\CMUSphinx\Konversi\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from D:\Datalfa\Skripsi\CMUSphinx\Konversi\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Datalfa\Skripsi\CMUSphinx\Konversi\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from D:\Datalfa\Skripsi\CMUSphinx\Konversi\AndroidManifest.xml:22:27-74
+activity#com.examples.konversi.ActivityDua
+ADDED from D:\Datalfa\Skripsi\CMUSphinx\Konversi\AndroidManifest.xml:25:10-29:20
+	android:label
+		ADDED from D:\Datalfa\Skripsi\CMUSphinx\Konversi\AndroidManifest.xml:27:13-42
+	android:name
+		ADDED from D:\Datalfa\Skripsi\CMUSphinx\Konversi\AndroidManifest.xml:26:13-61
+activity#com.examples.konversi.ActivityTiga
+ADDED from D:\Datalfa\Skripsi\CMUSphinx\Konversi\AndroidManifest.xml:30:9-34:20
+	android:label
+		ADDED from D:\Datalfa\Skripsi\CMUSphinx\Konversi\AndroidManifest.xml:32:13-42
+	android:name
+		ADDED from D:\Datalfa\Skripsi\CMUSphinx\Konversi\AndroidManifest.xml:31:13-62
+activity#com.examples.konversi.ActivityEmpat
+ADDED from D:\Datalfa\Skripsi\CMUSphinx\Konversi\AndroidManifest.xml:35:9-39:20
+	android:label
+		ADDED from D:\Datalfa\Skripsi\CMUSphinx\Konversi\AndroidManifest.xml:37:13-43
+	android:name
+		ADDED from D:\Datalfa\Skripsi\CMUSphinx\Konversi\AndroidManifest.xml:36:13-63
+activity#com.examples.konversi.ActivityLima
+ADDED from D:\Datalfa\Skripsi\CMUSphinx\Konversi\AndroidManifest.xml:40:9-44:20
+	android:label
+		ADDED from D:\Datalfa\Skripsi\CMUSphinx\Konversi\AndroidManifest.xml:42:13-45
+	android:name
+		ADDED from D:\Datalfa\Skripsi\CMUSphinx\Konversi\AndroidManifest.xml:41:13-62
+activity#com.examples.konversi.ActivityEnam
+ADDED from D:\Datalfa\Skripsi\CMUSphinx\Konversi\AndroidManifest.xml:45:9-49:20
+	android:label
+		ADDED from D:\Datalfa\Skripsi\CMUSphinx\Konversi\AndroidManifest.xml:47:13-44
+	android:name
+		ADDED from D:\Datalfa\Skripsi\CMUSphinx\Konversi\AndroidManifest.xml:46:13-62
+activity#com.examples.konversi.ActivityAbout
+ADDED from D:\Datalfa\Skripsi\CMUSphinx\Konversi\AndroidManifest.xml:50:10-54:20
+	android:label
+		ADDED from D:\Datalfa\Skripsi\CMUSphinx\Konversi\AndroidManifest.xml:52:13-34
+	android:name
+		ADDED from D:\Datalfa\Skripsi\CMUSphinx\Konversi\AndroidManifest.xml:51:13-63
+activity#com.examples.konversi.MainActivity
+ADDED from D:\Datalfa\Skripsi\CMUSphinx\Konversi\AndroidManifest.xml:55:9-59:20
+	android:label
+		ADDED from D:\Datalfa\Skripsi\CMUSphinx\Konversi\AndroidManifest.xml:57:13-33
+	android:name
+		ADDED from D:\Datalfa\Skripsi\CMUSphinx\Konversi\AndroidManifest.xml:56:13-62

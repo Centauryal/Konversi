@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">Konversi</string>
+    <string name="action_settings">Pengaturan</string>
+    <string name="hello_world">Halo Dunia!</string>
+    <string name="konversi">Konversi</string>
+    <string name="Nilai">Masukan Nilai:</string>
+    <string name="Splash">Konversi</string>
+    <string name="Oleh">Aplikasi Konversi Dibuat Oleh :</string>
+    <string name="note">Aplikasi Konversi ini dirancang untuk memungkinkan pengguna membuat berbagai macam konversi yang telah disediakan dalam aplikasi ini</string>
+    <string name="mute">Diam</string>
+        
+</resources>

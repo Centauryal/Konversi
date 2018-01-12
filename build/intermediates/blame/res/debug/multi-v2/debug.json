@@ -1,0 +1,220 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Datalfa\\Skripsi\\CMUSphinx\\Konversi\\build\\intermediates\\res\\merged\\debug\\values-sw720dp-land-v13_values-sw720dp-land-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\Datalfa\\Skripsi\\CMUSphinx\\Konversi\\res\\values-sw720dp-land\\dimens.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "205",
+                        "endColumns": "58",
+                        "endOffsets": "259"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\Datalfa\\Skripsi\\CMUSphinx\\Konversi\\build\\intermediates\\res\\merged\\debug\\values-in_values-in.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\Datalfa\\Skripsi\\CMUSphinx\\Konversi\\res\\values-in\\strings.xml",
+                    "from": {
+                        "startLines": "7,9,8,4,3,5,6,11,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "266,361,316,110,63,166,219,594,427",
+                        "endColumns": "48,64,43,54,45,51,45,37,165",
+                        "endOffsets": "310,421,355,160,104,213,260,627,588"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,104,169,213,268,314,366,412,450",
+                        "endColumns": "48,64,43,54,45,51,45,37,165",
+                        "endOffsets": "99,164,208,263,309,361,407,445,611"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\Datalfa\\Skripsi\\CMUSphinx\\Konversi\\build\\intermediates\\res\\merged\\debug\\values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\Datalfa\\Skripsi\\CMUSphinx\\Konversi\\res\\values-v14\\styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "225",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "373"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "201"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\Datalfa\\Skripsi\\CMUSphinx\\Konversi\\build\\intermediates\\res\\merged\\debug\\values-ja_values-ja.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\Datalfa\\Skripsi\\CMUSphinx\\Konversi\\res\\values-ja\\strings.xml",
+                    "from": {
+                        "startLines": "7,9,8,4,3,5,6,11,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "249,334,289,110,63,158,208,503,395",
+                        "endColumns": "38,59,43,46,45,48,39,37,106",
+                        "endOffsets": "283,389,328,152,104,202,243,536,497"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,94,154,198,245,291,340,380,418",
+                        "endColumns": "38,59,43,46,45,48,39,37,106",
+                        "endOffsets": "89,149,193,240,286,335,375,413,520"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\Datalfa\\Skripsi\\CMUSphinx\\Konversi\\build\\intermediates\\res\\merged\\debug\\values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\Datalfa\\Skripsi\\CMUSphinx\\Konversi\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "182",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "316"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "187"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\Datalfa\\Skripsi\\CMUSphinx\\Konversi\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\Datalfa\\Skripsi\\CMUSphinx\\Konversi\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "92,151",
+                        "endColumns": "57,55",
+                        "endOffsets": "145,202"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                },
+                {
+                    "source": "D:\\Datalfa\\Skripsi\\CMUSphinx\\Konversi\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "7,9,8,4,3,5,6,11,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "262,355,310,105,58,159,213,584,423",
+                        "endColumns": "46,66,43,52,45,52,47,37,159",
+                        "endOffsets": "304,417,349,153,99,207,256,617,578"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "169,216,283,327,380,426,479,527,565",
+                        "endColumns": "46,66,43,52,45,52,47,37,159",
+                        "endOffsets": "211,278,322,375,421,474,522,560,720"
+                    }
+                },
+                {
+                    "source": "D:\\Datalfa\\Skripsi\\CMUSphinx\\Konversi\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "191,522",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "481,679"
+                    },
+                    "to": {
+                        "startLines": "13,20",
+                        "startColumns": "4,4",
+                        "startOffsets": "725,1016",
+                        "endLines": "19,22",
+                        "endColumns": "12,12",
+                        "endOffsets": "1011,1171"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\Datalfa\\Skripsi\\CMUSphinx\\Konversi\\build\\intermediates\\res\\merged\\debug\\values-de_values-de.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\Datalfa\\Skripsi\\CMUSphinx\\Konversi\\res\\values-de\\strings.xml",
+                    "from": {
+                        "startLines": "7,9,8,4,3,5,6,11,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "271,365,320,110,63,169,222,609,434",
+                        "endColumns": "47,67,43,57,45,51,47,38,173",
+                        "endOffsets": "314,428,359,163,104,216,265,643,603"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,103,171,215,273,319,371,419,458",
+                        "endColumns": "47,67,43,57,45,51,47,38,173",
+                        "endOffsets": "98,166,210,268,314,366,414,453,627"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\Datalfa\\Skripsi\\CMUSphinx\\Konversi\\build\\intermediates\\res\\merged\\debug\\values-fr_values-fr.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\Datalfa\\Skripsi\\CMUSphinx\\Konversi\\res\\values-fr\\strings.xml",
+                    "from": {
+                        "startLines": "7,9,8,4,3,5,6,11,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "274,367,322,110,63,166,225,608,434",
+                        "endColumns": "46,65,43,54,45,57,47,37,172",
+                        "endOffsets": "316,428,361,160,104,219,268,641,602"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,102,168,212,267,313,371,419,457",
+                        "endColumns": "46,65,43,54,45,57,47,37,172",
+                        "endOffsets": "97,163,207,262,308,366,414,452,625"
+                    }
+                }
+            ]
+        }
+    ]
+}

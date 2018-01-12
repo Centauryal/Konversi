@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Konversi</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="konversi">Conversion</string>
+    <string name="Nilai">Input Value:</string>
+    <string name="Splash">Konversi</string>
+    <string name="Oleh">Konversi Application Created By :</string>
+    <string name="note">This Konversi application designed to allow users to create a wide variety of conversion has been provided in this application</string>
+    <string name="mute">Mute</string>
+
+</resources>

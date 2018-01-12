@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">Konversi</string>
+    <string name="action_settings">設定</string>
+    <string name="hello_world">こんにちは世界!</string>
+    <string name="konversi">変換</string>
+    <string name="Nilai">入力値:</string>
+    <string name="Splash">Konversi</string>
+    <string name="Oleh">Konversiアプリケーションで作成されました :</string>
+    <string name="note">ユーザーは、変換の多種多様を作成することを可能にするように設計され、このKonversiアプリケーションは、このアプリケーションに提供されています</string>
+    <string name="mute">ミュート</string>
+        
+</resources>

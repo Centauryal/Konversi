@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">Konversi</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="hello_world">Hallo Welt!</string>
+    <string name="konversi">Umwandlung</string>
+    <string name="Nilai">Eingangswert:</string>
+    <string name="Splash">Konversi</string>
+    <string name="Oleh">Konversi Anwendungs Erstellt von :</string>
+    <string name="note">Diese Umwandlung Anwendung entwickelt, um Benutzern zu erlauben eine Vielzahl von Umwandlungs erstellen hat in diesem Programm verfügbar ist</string>
+    <string name="mute">Stumm</string>
+    
+</resources>

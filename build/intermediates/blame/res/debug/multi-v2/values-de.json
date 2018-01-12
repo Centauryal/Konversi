@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Datalfa\\Skripsi\\CMUSphinx\\Konversi\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-de\\values-de.xml",
+            "map": [
+                {
+                    "source": "D:\\Datalfa\\Skripsi\\CMUSphinx\\Konversi\\res\\values-de\\strings.xml",
+                    "from": {
+                        "startLines": "7,9,8,4,3,5,6,11,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "271,365,320,110,63,169,222,609,434",
+                        "endColumns": "47,67,43,57,45,51,47,38,173",
+                        "endOffsets": "314,428,359,163,104,216,265,643,603"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,103,171,215,273,319,371,419,458",
+                        "endColumns": "47,67,43,57,45,51,47,38,173",
+                        "endOffsets": "98,166,210,268,314,366,414,453,627"
+                    }
+                }
+            ]
+        }
+    ]
+}

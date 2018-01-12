@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Datalfa\\Skripsi\\CMUSphinx\\Konversi\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\Datalfa\\Skripsi\\CMUSphinx\\Konversi\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "92,151",
+                        "endColumns": "57,55",
+                        "endOffsets": "145,202"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                },
+                {
+                    "source": "D:\\Datalfa\\Skripsi\\CMUSphinx\\Konversi\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "7,9,8,4,3,5,6,11,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "262,355,310,105,58,159,213,584,423",
+                        "endColumns": "46,66,43,52,45,52,47,37,159",
+                        "endOffsets": "304,417,349,153,99,207,256,617,578"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "169,216,283,327,380,426,479,527,565",
+                        "endColumns": "46,66,43,52,45,52,47,37,159",
+                        "endOffsets": "211,278,322,375,421,474,522,560,720"
+                    }
+                },
+                {
+                    "source": "D:\\Datalfa\\Skripsi\\CMUSphinx\\Konversi\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "191,522",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "481,679"
+                    },
+                    "to": {
+                        "startLines": "13,20",
+                        "startColumns": "4,4",
+                        "startOffsets": "725,1016",
+                        "endLines": "19,22",
+                        "endColumns": "12,12",
+                        "endOffsets": "1011,1171"
+                    }
+                }
+            ]
+        }
+    ]
+}
